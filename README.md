@@ -1,2 +1,0 @@
-# tshepimoloko
-Created with CodeSandbox
